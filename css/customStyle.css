@@ -1,0 +1,98 @@
+/**
+ Styling Used for Index Page
+ **/
+
+/*
+The following is the styling for the Header section.
+Used for the portfolio.html, Contact.html
+*/
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+.customStyleHeaderName {
+	font-family: 'Georgia', Times, Times New Roman, serif; 
+	font-size: 28px; 
+	color: white; 
+	background-color: #4aaaa5;
+	margin-left: 22%;
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+.customStyleTopRtLinks{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: red;
+	margin-right: 22%;
+}
+nav{
+	background-color: white;
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+a {
+	color: darkgray;
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+h1{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+body{
+	background-image: url("../images/folk-pattern-black.png");
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+.customStyleHeaderBorder {
+	border-top: 3px solid #cccccc;
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+.customStyleWidth {
+	width: 960px;
+}
+
+/* Used for all 3 pages: Index, Contact, Portfolio */
+.customStyleMainContentBorderFont {
+	font-size: 28px;
+	border-bottom: 3px solid #dddddd;
+}
+
+/* Used for About Me text section */
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: gray ;
+	line-height: 1.5;
+}
+
+/* Portfolio Label Positioning */
+.customPortfolioLabels {
+	position: absolute;
+	text-align: center;
+	color: white;
+	background-color: #4aaaa5;
+	width: 300px;
+	height: 25%;
+	bottom: 15px;
+}
+
+/* Contact Page Label Font */
+.customFormLabelFont{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+}
+/* Contact Page Submit Button */
+.customSubmitButton {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 20px;
+	color: white;
+	Background-color: #4aaaa5;
+	border: none;
+}
+
+/* The following will be used as the Footer styler */
+.customStyleFooter{
+	background: #666666;
+	border-top: 8px solid #4aaaa5;
+	height: 75px;
+}
