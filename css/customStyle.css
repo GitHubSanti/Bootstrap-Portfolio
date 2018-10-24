@@ -23,9 +23,6 @@ Used for the portfolio.html, Contact.html
 	color: red;
 	margin-right: 22%;
 }
-nav{
-	background-color: white;
-}
 
 /* Used for all 3 pages: Index, Contact, Portfolio */
 a {
@@ -38,9 +35,6 @@ h1{
 	color: #4aaaa5;
 }
 
-body{
-	background-image: url("../images/folk-pattern-black.png");
-}
 
 /* Used for all 3 pages: Index, Contact, Portfolio */
 .customStyleHeaderBorder {
