@@ -8,6 +8,10 @@ Used for the portfolio.html, Contact.html
 */
 
 /* Used for all 3 pages: Index, Contact, Portfolio */
+
+body{
+	background-image: url("../images/folk-pattern-black.png");
+}
 .customStyleHeaderName {
 	font-family: 'Georgia', Times, Times New Roman, serif; 
 	font-size: 28px; 
